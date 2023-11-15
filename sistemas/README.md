@@ -1,2 +1,2 @@
 ## Apuntes Sistemas
-Clica per anar a [Processos](/sistemas/procesos/README.md)
+Clica per anar a [Processos](procesos/README.md)
