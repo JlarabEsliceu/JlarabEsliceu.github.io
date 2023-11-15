@@ -25,4 +25,4 @@ Els processos passen per diversos estats durant el seu cicle de vida. A continua
 
 La transició entre aquests estats és gestionada pel sistema operatiu, i assegurar una gestió eficient d'aquests estats és fonamental per mantenir l'ordre i l'optimització en l'execució dels processos
 
-[------>](/sistemas/procesos/03_Components_de_la_gestio_de_processos.md)
+[------>](03_Components_de_la_gestio_de_processos.md)

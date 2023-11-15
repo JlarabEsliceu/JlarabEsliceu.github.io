@@ -6,4 +6,4 @@ Els processos, que són instàncies en execució d'aplicacions o programes, nece
 
 En aquesta exploració sobre la gestió de processos, analitzarem com el sistema operatiu intervé per coordinar i controlar l'execució dels processos, garantint la prioritat dels processos crítics, la protecció de dades i la prevenció de problemes de seguretat. Així doncs, l'objectiu d'aquesta tasca és oferir una visió completa sobre la importància i el funcionament de la gestió de processos en els sistemes microinformàtics i xarxes actuals. 
 
-[------>](/sistemas/procesos/02_Estats_Dels_Processos.md)
+[------>](02_Estats_Dels_Processos.md)
