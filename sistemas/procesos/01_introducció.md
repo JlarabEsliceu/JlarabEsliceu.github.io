@@ -1,6 +1,4 @@
-# Gestió de Processos en Sistemes Microinformàtics i Xarxes
-
-## Introducció
+# Introducció
 
 La gestió de processos és una part crítica en l'àmbit dels sistemes microinformàtics i les xarxes, ja que afecta directament el rendiment i la fiabilitat d'aquests entorns. En un món cada vegada més connectat, on la demanda d'accessibilitat i eficiència és constant, comprendre i optimitzar la gestió de processos és essencial per proporcionar una experiència d'usuari fluida i segura.
 
